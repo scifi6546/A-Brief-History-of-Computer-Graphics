@@ -30,8 +30,8 @@
   to appear onto the consumer market. These devices used specalized hardware inorder to draw 3d graphics. These systems
   were much faster than traditional tecqniques and allowed much more interesting games to appear.
 ## General Purpose Compute
-Initially 3d accelerators could only draw 3d graphics. Slowly the abilities of these graphics systems grew and could do more advanced tasks. In 2004 a new version of OpenGL a industry standard, used by programmers to write graphical applications. 
-This version allowed the programmer to write programs that would run on the graphics chip. This allowed the programmer to 
-leverage the graphics equipment for tasks that are not strictly related to puting pixels onto a screen. Graphical proccessers
-can be much faster than traditional processers because they can do tasks in many small chunks at the same time rather then 
-doing one task and moving onto the next task.
+Initially 3d accelerators could only draw 3d graphics. Slowly the abilities of these graphics systems grew and could do more advanced tasks. In 2004 a new version of OpenGL a industry standard, used by programmers to write shaders on graphics chips. 
+This version allowed the programmer to write programs that would run on the graphics chip. This made it easier to 
+leverage the graphics equipment for tasks that are not strictly related to puting pixels onto a screen. Graphical 
+proccessers can be much faster than traditional processers because they can do tasks in many small chunks at the same time 
+rather then doing and finishing one task and moving onto the next task.
