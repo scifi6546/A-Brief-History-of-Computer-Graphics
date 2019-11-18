@@ -20,4 +20,5 @@
   the programmer directly changing each pixel in the enemy. This makes the game much faster as the computer does not have
   to tell the video chip what color every single pixel will have.
 3. 3d Accelerators
+  
 4. General Purpose Compute
