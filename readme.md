@@ -15,7 +15,9 @@
   of the video systems were built inorder to accomadate bisinuss users rather than games. Many games systems however, such
   as the Super Nintendo Entertainment system were built from the ground up inorder to play games. One of these features 
   were sprites shich were basically images that the programmer could move around.
+  
   ![Sprite](image.png) 
+  
   This approach made some games much faster. For example the texture of an enemy could be a sprite and multiple sprites
   could be moved on the screen without the programmer directly changing each pixel in the enemy. This makes the game much '
   faster as the computer does not have to tell the video chip what color every single pixel will have.
