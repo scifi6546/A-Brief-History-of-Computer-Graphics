@@ -48,3 +48,14 @@ processors can be much faster than traditional processors because they can do ta
 rather than doing and finishing one task and moving onto the next task. Graphics processers are used in many real world
 calculations such as Bioinformatics and weather simulation (https://developer.nvidia.com/cuda-zone).
 
+## Citations
+Ferraro, Richard F. Programmers Guide to the EGA and VGA Cards. 2nd ed., Addison-Welsey, 1990.
+
+Learn OpenGL. https://learnopengl.com/.
+This article provides an overview of modern graphics programming,. It describes techniques used in modern systems.
+
+Nye, Adrian. Xlib Programming Manual. O'Reilly & Associates, 1990.
+
+Ruetsch, Gregory, and Massimiliano Fatica. Cuda Fortran for Scientists Amd Engineers. MK, 2014.
+
+Vulkan Tutorial . https://vulkan-tutorial.com/.
