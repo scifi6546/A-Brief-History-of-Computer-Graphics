@@ -21,7 +21,7 @@
   This approach made some games much faster. For example the texture of an enemy could be a sprite and multiple sprites
   could be moved on the screen without the programmer directly changing each pixel in the enemy. This makes the game much '
   faster as the computer does not have to tell the video chip what color every single pixel will have. The Super Nintendo
-  Entertainment System has a mode where sprites can be reshaped allowing for effects that simulate 3d graphics
+  Entertainment System has a mode where sprites can be reshaped allowing for effects that simulate 3d graphics.
   (https://www.youtube.com/watch?v=5SBEAZIfDAg).
 ## 3d Accelerators
   http://fabiensanglard.net/3dfx_sst1/index.html
@@ -31,7 +31,10 @@
   written code had to calculate where every single polygon fit on screen. in the mid 90's 3d accelerator cards started
   to appear onto the consumer market. One example is the 3dfx Voodoo card. These devices used specialized hardware inorder
   to draw 3d graphics. These systems were much faster than traditional techniques and allowed much more interesting games
-  to appear.
+  to appear. An example of an early 3d accelerated game (Quake by ID Software) is shown below. 
+  
+  ![Quake](quake.jpeg)
+  
 ## General Purpose Compute
 Initially 3d accelerators could only draw 3d graphics. Slowly the abilities of these graphics systems grew and could do more advanced tasks. In 2004 a new version of OpenGL a industry standard, used by programmers to write shaders on graphics chips.
 This version allowed the programmer to write programs that would run on the graphics chip. This made it easier to
