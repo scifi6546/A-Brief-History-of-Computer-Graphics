@@ -28,7 +28,12 @@
   Programmers always wanted to make 3d games as it allows more gameplay options to be explored than with 2d games. 3D games
   however require a large amount of computational power. In the early history 3d games used very simple graphics with
   simple graphics consisting of lines or sometimes filled in polygons. These methods were very slow because programmer
-  written code had to calculate where every single polygon fit on screen. in the mid 90's 3d accelerator cards started
+  written code had to calculate where every single polygon fit on screen. One of the most advanced software renderd 3d games
+  is shown below, Doom by ID Software
+  
+  ![DOOM](doom.png)
+  
+  in the mid 90's 3d accelerator cards started
   to appear onto the consumer market. One example is the 3dfx Voodoo card. These devices used specialized hardware inorder
   to draw 3d graphics. These systems were much faster than traditional techniques and allowed much more interesting games
   to appear. An example of an early 3d accelerated game (Quake by ID Software) is shown below. 
