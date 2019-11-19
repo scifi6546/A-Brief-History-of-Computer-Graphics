@@ -49,6 +49,8 @@ rather than doing and finishing one task and moving onto the next task. Graphics
 calculations such as Bioinformatics and weather simulation (https://developer.nvidia.com/cuda-zone).
 
 ## Citations
+“CUDA.” CUDA, NVIDIA, 18 Nov. 2019, https://developer.nvidia.com/cuda-zone. 
+
 Ferraro, Richard F. Programmers Guide to the EGA and VGA Cards. 2nd ed., Addison-Welsey, 1990.
 
 Learn OpenGL. https://learnopengl.com/.
@@ -57,5 +59,8 @@ This article provides an overview of modern graphics programming,. It describes 
 Nye, Adrian. Xlib Programming Manual. O'Reilly & Associates, 1990.
 
 Ruetsch, Gregory, and Massimiliano Fatica. Cuda Fortran for Scientists Amd Engineers. MK, 2014.
-
+ Sanglard, Fabien. “The Story of the 3dfx Voodoo1.” FABIEN SANGLARD'S WEBSITE, 4 Apr. 2019, http://fabiensanglard.net/3dfx_sst1/index.html. 
+ 
+  “SNES Background Modes 0-6 - Super Nintendo Entertainment System Features Pt. 04.” Retro Game Mechanics Explained, 1 Oct. 2017. 
+  
 Vulkan Tutorial . https://vulkan-tutorial.com/.
