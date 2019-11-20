@@ -1,7 +1,9 @@
-# Outline
-## Overview of GPU's
   People have been using computers to display pretty pictures for a very long time. I am going to give a brief
-  overview of the history of consumer computer graphics.
+  overview of the history of consumer computer graphics. Many of the classes of hardware discussed below actually
+  happened at the same time. The cause being primararially market forces. A gamer does not care how well his/her
+  game console can render large blocks of text, while a bisinuss user does not usually care if the computer
+  can play games well. Therefore for a long peroid graphics hardware was often quite specalized and lacked
+  core features that other systems relied on.
 ## Pixel Based (Little to no acceleration)
   For most of the history of consumer machines the resolution of displayed images was limited by how much memory the
   computer had. For example a 1080p image takes up 1 Megabyte of space. Up until 1985 it would be impossible to store
