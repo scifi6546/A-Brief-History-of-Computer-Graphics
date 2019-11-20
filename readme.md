@@ -61,14 +61,21 @@ leverage the graphics equipment for tasks that are not strictly related to putin
 processors can be much faster than traditional processors because they can do tasks in many small chunks at the same time
 rather than doing and finishing one task and moving onto the next task. Graphics processers are used in many real world
 calculations such as Bioinformatics and weather simulation (CUDA).
-
+## The Future
+  It is unclear what the future holds for real time computer graphics. Many high end systems are held back more by the 
+  time and money used to create the art that will be rendered rather than the horsepower of the computer. There are some
+  potential places for advancement. One being lighting. NVIDIA, a maker of high performance graphics chips has recently 
+  released a new generation of processers that can do a thechnique called ray tracing in real time. This method can create
+  much more realistic lighting but there is much debate in the gaming community of whether the advancment is worth the hit to 
+  performance
 ## Citations
 “CUDA.” CUDA, NVIDIA, 18 Nov. 2019, https://developer.nvidia.com/cuda-zone. 
+
+"GEFORCE RTX 20 SERIES" Nvidia 20 Nov. 2019, https://www.nvidia.com/en-us/geforce/20-series/
 
 Ferraro, Richard F. Programmers Guide to the EGA and VGA Cards. 2nd ed., Addison-Welsey, 1990.
 
 Learn OpenGL. https://learnopengl.com/.
-This article provides an overview of modern graphics programming,. It describes techniques used in modern systems.
 
 Nye, Adrian. Xlib Programming Manual. O'Reilly & Associates, 1990.
 
@@ -76,6 +83,6 @@ Ruetsch, Gregory, and Massimiliano Fatica. Cuda Fortran for Scientists Amd Engin
 
  Sanglard, Fabien. “The Story of the 3dfx Voodoo1.” FABIEN SANGLARD'S WEBSITE, 4 Apr. 2019, http://fabiensanglard.net/3dfx_sst1/index.html. 
  
-  “SNES Background Modes 0-6 - Super Nintendo Entertainment System Features Pt. 04.” Retro Game Mechanics Explained, 1 Oct. 2017. 
+“SNES Background Modes 0-6 - Super Nintendo Entertainment System Features Pt. 04.” Retro Game Mechanics Explained, 1 Oct. 2017. 
   
 Vulkan Tutorial . https://vulkan-tutorial.com/.
