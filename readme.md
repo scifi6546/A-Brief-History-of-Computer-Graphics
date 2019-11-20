@@ -44,7 +44,16 @@
   to appear. An example of an early 3d accelerated game (Quake by ID Software) is shown below. 
   
   ![Quake](quake.jpeg)
-  
+## Programming Style
+  Many lower performance systems in the past required the programmer to have a deep understanding of the hardware inorder to
+  produce any usable results. Programmers have to manually keep track of the state of the hardware and these techqniques are 
+  very time consuming and error prone. As computers got faster it became more common for graphics hardware to have simpler 
+  interfaces inorder to make the programmers job easier. This is a big shift because many of the details of the hardware 
+  become hidden from view and it makes it far easier to create complicated programs. This change has caused many other changes
+  in the computer industry. One big example is portability of programs. In the past it was very hard to get a program
+  to run on a different computer because the game relied on intricate details of the computer in question. 
+  With the advent of standard interfaces it is very easy to move to a completly new platform and it can be as easy as clicking
+  on a couple of extra buttons.
 ## General Purpose Compute
 Initially 3d accelerators could only draw 3d graphics. Slowly the abilities of these graphics systems grew and could do more advanced tasks. In 2004 a new version of OpenGL a industry standard, used by programmers to write shaders on graphics chips.
 This version allowed the programmer to write programs that would run on the graphics chip. This made it easier to
