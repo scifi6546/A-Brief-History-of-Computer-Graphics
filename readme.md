@@ -11,7 +11,10 @@
   by limiting the resolution and number of colors. Limiting the colors is especially helpful because each additional color
   requires more space inorder to encode the data. One example system is VGA (Video Graphics Array). VGA is still present in
   the form of the connecture used for it, the VGA connector. VGA has a resolution of 320x200 Pixels with 256 possible colors (Ferraro, 257). This video mode is very limiting because the programmer has to manually place every pixel on the screen and this takes the computer quite a bit of time to go through and change each and every pixel. It could be much faster to
-  have some hardware that could do some work for the central processing unit.
+  have some hardware that could do some work for the central processing unit. An example of what this could achieve is shown 
+  below. The image depicts a screen shot from he Secret of Monkey Island by Lucasfilm Games released in 	
+  October 1990
+  ![Monkey Island](monkey_island.jpeg)
 ## Sprite acceleration
   In the 1980's and the early 90's many home computers were built to do work rather than play games, therefore many
   of the video systems were built inorder to accommodate business users rather than games. Many games systems however, such
