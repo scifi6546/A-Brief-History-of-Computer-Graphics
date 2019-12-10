@@ -1,6 +1,6 @@
-  People have been using computers to display pretty pictures for a very long time. I am going to give a brief
-  overview of the history of consumer computer graphics. Many of the classes of hardware discussed below actually
-  happened at the same time. The cause being primarily market forces. A gamer does not care how well his/her
+  People have been using computers to display pretty pictures for a very long time. Today I am going to give a brief
+  overview of the history of consumer computer graphics. Many of the classes of hardware discussed below were actually
+  in use at the same time. The cause being primarily market forces. A gamer does not care how well his/her
   game console can render large blocks of text, while a business user does not usually care if the computer
   can play games well. Therefore for a long period graphics hardware was often quite specialized and lacked
   core features that other systems relied on.
@@ -11,10 +11,10 @@
   by limiting the resolution and number of colors. Limiting the colors is especially helpful because each additional color
   requires more space inorder to encode the data. One example system is VGA (Video Graphics Array). VGA is still present in
   the form of the connecture used for it, the VGA connector. VGA has a resolution of 320x200 Pixels with 256 possible colors (Ferraro, 257). This video mode is very limiting because the programmer has to manually place every pixel on the screen and this takes the computer quite a bit of time to go through and change each and every pixel. It could be much faster to
-  have some hardware that could do some work for the central processing unit. An example of what this could achieve is shown
-  below. The image depicts a screen shot from he Secret of Monkey Island by Lucasfilm Games released in     
+  have some hardware that could do some work for the central processing unit. An example of what pixel based graphics could achieve is shown below. The image depicts a screen shot from he Secret of Monkey Island by Lucasfilm Games released in     
   October 1990
   ![Monkey Island](monkey_island.jpeg)
+  The screenshot has beautiful hand drawn textures, but this technology limits what can be done with a computer.
 ## Sprite acceleration
   In the 1980's and the early 90's many home computers were built to do work rather than play games, therefore many
   of the video systems were built inorder to accommodate business users rather than games. Many games systems however, such
@@ -25,8 +25,9 @@
  
   This approach made some games much faster. For example the texture of an enemy could be a sprite and multiple sprites
   could be moved on the screen without the programmer directly changing each pixel in the enemy. This makes the game much '
-  faster as the computer does not have to tell the video chip what color every single pixel will have. The Super Nintendo
-  Entertainment System has a mode where sprites can be reshaped allowing for effects that simulate 3d graphics.
+  faster as the computer does not have to tell the video chip what color every single pixel will have. This allowed
+  fast paced games like Super Mario Brothers to be created on (even at the time) slow and cheap hardware.
+  This technique can be used to create interesting effects, for example the Super Nintendo Entertainment System has a mode where sprites can be reshaped allowing for effects that simulate 3d graphics.
   (Retro Game Mechanics Explained).
 ## 3d Accelerators
 
